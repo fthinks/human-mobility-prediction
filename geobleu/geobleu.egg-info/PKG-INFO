@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: geobleu
+Version: 0.4
+Summary: Implementation of GEO-BLEU and other evaluation metrics for HuMob Challenge
+Home-page: https://github.com/yahoojapan/geobleu
+Author: Toru Shimizu, LY Corporation
+Author-email: toshimiz@lycorp.co.jp
+License: MIT
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
